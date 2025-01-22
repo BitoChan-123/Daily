@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "4bdc2837b2f86a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b0ac85ba00a26e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8efc2d3fa0b0d02",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2025年/1月20號.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1月20號"
+            }
+          },
+          {
+            "id": "6af7cbc773b0ce81",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2025年/1月21號.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1月21號"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08ffad957654288a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d03a93d9759e5f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb3ce25c8861f829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "766193754f74adab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "fe8f1adf2ecbafc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9669f2bae455e5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3075a597c650da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b629f20b4f062fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作/中醫workshop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "中醫workshop 的反向連結"
+            }
+          },
+          {
+            "id": "16a9bc654980b10f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-23 11.32.00.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Drawing 2024-12-23 11.32.00.excalidraw 的對外連結"
+            }
+          },
+          {
+            "id": "c92d8a357291ab63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "9220c5af2942af42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-23 11.32.00.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Drawing 2024-12-23 11.32.00.excalidraw 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6af7cbc773b0ce81",
+  "lastOpenFiles": [
+    "工作/中醫workshop.md",
+    "Excalidraw/2025年/1月21號.md",
+    "Excalidraw/2025年/1月20號.md",
+    "Excalidraw/2025年/識別式AI未能解決.md",
+    "Excalidraw/2025年/中醫workshop工具.md",
+    "Excalidraw/舌面诊断2.0api.pdf",
+    "Excalidraw/舌頭和面診.md",
+    "Pasted Image 20250120174331_576.png",
+    "Pasted Image 20250120171426_894.png",
+    "Excalidraw/2025年/1月18號.md",
+    "Pasted Image 20250120155300_331.png",
+    "Pasted Image 20250120145025_306.png",
+    "Pasted Image 20250106180354_996.png",
+    "Excalidraw/2025年/1月17號.md",
+    "成都服務器setup.md",
+    "Excalidraw/Drawing 2025-01-17 13.54.32.excalidraw.md",
+    "Excalidraw/2025年/1月13號.md",
+    "Excalidraw/2024年/12月31號.md",
+    "Excalidraw/2024年/12月30號.md",
+    "Excalidraw/2025年/1月10號.md",
+    "Excalidraw/2025年/1月7號.md",
+    "Excalidraw/2025年/1月6號.md",
+    "Excalidraw/2024年/12月23號.md",
+    "Excalidraw/2024年/12月24號.md",
+    "Excalidraw/2025年/1月3號.md",
+    "Excalidraw/Unity.md",
+    "IDEA 2024 DEC/IDEA 23th.md",
+    "video/2025-01-15 14-58-56.mkv",
+    "Pasted Image 20250103113243_152.png",
+    "Pasted Image 20250102104403_814.png",
+    "Pasted Image 20250102103900_482.png",
+    "Pasted Image 20250102101008_497.png",
+    "Pasted Image 20250102100805_400.png",
+    "video/2025-01-10 14-05-52.mkv",
+    "工作/Unity.md",
+    "工作/國内、國外AI平臺.md",
+    "Excalidraw/2025年/1月3號 1.md",
+    "Excalidraw/Drawing 2025-01-03 11.32.08.excalidraw.md",
+    "Excalidraw/text.py",
+    "Excalidraw/2025年",
+    "Excalidraw/香港Just Dance——idea第10個.md",
+    "工作",
+    "IDEA 2024 DEC",
+    "Excalidraw/2024年",
+    "Excalidraw"
+  ]
+}
