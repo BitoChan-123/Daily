@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "8772c7666deb7e88",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2025年/1月24號.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1月24號"
+            }
+          },
+          {
+            "id": "bd703ae03e18c426",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2025年/1月28號.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1月28號"
+            }
+          },
+          {
             "id": "6fe5f29603ba3e5c",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               "title": "1月24號"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,16 +199,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8efc2d3fa0b0d02",
+  "active": "7d37fa056296f557",
   "lastOpenFiles": [
-    "Excalidraw/2025年/1月23號.md",
+    "Image/Front.png",
+    "Image/Right.png",
+    "Image/Left.png",
+    "Image/back.png",
+    "Image",
+    "Excalidraw/Drawing 2025-01-28 09.39.30.excalidraw.md",
+    "Excalidraw/2025年/1月28號.md",
+    "Excalidraw/2025年/識別式AI未能解決.md",
     "Excalidraw/2025年/1月24號.md",
+    "Excalidraw/2025年/1月23號.md",
     "Excalidraw/2025年/中醫workshop工具.md",
     "1月我會什麽？小總結：.md",
     "Excalidraw/2025年/1月22號.md",
     "Excalidraw/2025年/1月21號.md",
     "Excalidraw/2025年/1月20號.md",
-    "Excalidraw/2025年/識別式AI未能解決.md",
     "Excalidraw/2025年/1月18號.md",
     "Excalidraw/2025年/1月17號.md",
     "Excalidraw/2025年/1月13號.md",
@@ -207,21 +239,14 @@
     "IMG/Pasted Image 20250121115654_597.png",
     "IMG/Pasted Image 20250121135052_025.png",
     "Excalidraw/舌頭和面診.md",
-    "Excalidraw/Unity.md",
     "Excalidraw/舌面诊断2.0api.pdf",
-    "IMG/Pasted Image 20250102100805_400.png",
     "IMG",
-    "工作Stem課程/中醫workshop.md",
-    "IMG/Pasted Image 20250120174331_576.png",
-    "IMG/Pasted Image 20250120171426_894.png",
-    "Excalidraw/Drawing 2025-01-17 13.54.32.excalidraw.md",
     "video/2025-01-15 14-58-56.mkv",
     "video/2025-01-10 14-05-52.mkv",
     "Excalidraw/text.py",
     "Excalidraw/2025年",
     "工作Stem課程",
     "IDEA 2024 DEC",
-    "Excalidraw/2024年",
-    "Excalidraw"
+    "Excalidraw/2024年"
   ]
 }
