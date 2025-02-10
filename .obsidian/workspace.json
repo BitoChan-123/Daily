@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "82b0ac85ba00a26e",
+        "id": "c2b4df2f01cd684c",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a39c8736238391",
+            "id": "32ea8ba8202a5e53",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/2025年/2月/2月3號.md"
+                "file": "Excalidraw/2025年/2月/2月6號.md"
               },
               "icon": "excalidraw-icon",
-              "title": "2月3號"
+              "title": "2月6號"
+            }
+          },
+          {
+            "id": "2579489b988f0841",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2月11號.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2月11號"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -162,23 +176,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3a39c8736238391",
+  "active": "7d37fa056296f557",
   "lastOpenFiles": [
+    "Excalidraw/2025年/2月/2月6號.md",
+    "Excalidraw/2月11號.md",
+    "Excalidraw/2025年/2月/2月7號.md",
+    "IMG/WhatsApp Image 2025-02-07 at 15.41.45_bc4230ed.jpg",
+    "IMG/Pasted Image 20250207181411_408.png",
+    "IMG/Pasted Image 20250207152422_722.png",
+    "IMG/Pasted Image 20250207152100_625.png",
+    "IMG/Pasted Image 20250207152010_375.png",
+    "IMG/Pasted Image 20250207151933_685.png",
+    "IMG/Pasted Image 20250207151823_082.png",
+    "IMG/Pasted Image 20250207151806_997.png",
+    "Excalidraw/2025年/2月/2月10號.md",
+    "Excalidraw/2025年/識別式AI未能解決.md",
+    "Excalidraw/2025年/中醫workshop工具.md",
+    "Excalidraw/Drawing 2025-02-10 17.58.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-10 17.58.54.excalidraw.md",
+    "IDEA 2024 DEC/IDEA 30th.md",
+    "IMG/WhatsApp Image 2025-02-06 at 15.40.59_77655c49.jpg",
     "Excalidraw/2025年/2月/2月3號.md",
+    "Excalidraw/2025年/2月/2月5號.md",
+    "Excalidraw/2025年/2月/2月4號.md",
     "Excalidraw/2025年/1月/1月29號.md",
     "Excalidraw/2025年/1月/1月28號.md",
     "Excalidraw/2025年/1月/1月3號.md",
     "Excalidraw/2025年/2月",
     "Excalidraw/2025年/1月",
-    "Excalidraw/2025年/識別式AI未能解決.md",
     "Excalidraw/2025年/1月/1月24號.md",
     "IDEA 2024 DEC/IDEA 23th.md",
-    "IDEA 2024 DEC/IDEA 30th.md",
-    "Excalidraw/2025年/中醫workshop工具.md",
     "Image/Front.png",
-    "Image/Right.png",
-    "Image/Left.png",
-    "Image/back.png",
     "Image",
     "Excalidraw/Drawing 2025-01-28 09.39.30.excalidraw.md",
     "Excalidraw/2025年/1月/1月23號.md",
@@ -189,20 +217,7 @@
     "Excalidraw/2025年/1月/1月18號.md",
     "Excalidraw/2025年/1月/1月17號.md",
     "Excalidraw/2025年/1月/1月13號.md",
-    "Excalidraw/2025年/1月/1月10號.md",
-    "Excalidraw/2025年/1月/1月7號.md",
-    "Excalidraw/2025年/1月/1月6號.md",
-    "2025-01-22.md",
-    "成都服務器setup.md",
     "未命名.canvas",
-    "工作Stem課程/面部識別.png",
-    "工作Stem課程/鳥類.png",
-    "工作Stem課程/面部和舌头.png",
-    "工作Stem課程/國内、國外AI平臺.md",
-    "工作Stem課程/Unity.md",
-    "IMG/Pasted Image 20250121115803_147.png",
-    "IMG/Pasted Image 20250121115721_584.png",
-    "IMG/Pasted Image 20250121115654_597.png",
     "Excalidraw/舌面诊断2.0api.pdf",
     "IMG",
     "video/2025-01-15 14-58-56.mkv",
