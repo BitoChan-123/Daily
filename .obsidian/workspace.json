@@ -25,14 +25,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/2月11號.md"
+                "file": "Excalidraw/2025年/2月/2月11號.md"
               },
               "icon": "excalidraw-icon",
               "title": "2月11號"
             }
+          },
+          {
+            "id": "1671b5eed94c72d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2025年/2月/2月12號.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2月12號"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,8 +190,12 @@
   },
   "active": "7d37fa056296f557",
   "lastOpenFiles": [
+    "Excalidraw/2025年/中醫workshop工具.md",
+    "Excalidraw/2025年/2月/2月10號.md",
+    "Excalidraw/2025年/2月/2月11號.md",
+    "Excalidraw/2025年/識別式AI未能解決.md",
+    "Excalidraw/2025年/2月/2月12號.md",
     "Excalidraw/2025年/2月/2月6號.md",
-    "Excalidraw/2月11號.md",
     "Excalidraw/2025年/2月/2月7號.md",
     "IMG/WhatsApp Image 2025-02-07 at 15.41.45_bc4230ed.jpg",
     "IMG/Pasted Image 20250207181411_408.png",
@@ -189,9 +205,6 @@
     "IMG/Pasted Image 20250207151933_685.png",
     "IMG/Pasted Image 20250207151823_082.png",
     "IMG/Pasted Image 20250207151806_997.png",
-    "Excalidraw/2025年/2月/2月10號.md",
-    "Excalidraw/2025年/識別式AI未能解決.md",
-    "Excalidraw/2025年/中醫workshop工具.md",
     "Excalidraw/Drawing 2025-02-10 17.58.55.excalidraw.md",
     "Excalidraw/Drawing 2025-02-10 17.58.54.excalidraw.md",
     "IDEA 2024 DEC/IDEA 30th.md",
@@ -216,7 +229,6 @@
     "Excalidraw/2025年/1月/1月20號.md",
     "Excalidraw/2025年/1月/1月18號.md",
     "Excalidraw/2025年/1月/1月17號.md",
-    "Excalidraw/2025年/1月/1月13號.md",
     "未命名.canvas",
     "Excalidraw/舌面诊断2.0api.pdf",
     "IMG",
