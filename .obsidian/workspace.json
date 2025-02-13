@@ -37,14 +37,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/2025年/2月/2月12號.md"
+                "file": "Excalidraw/2025年/2月/2月6號.md"
               },
               "icon": "excalidraw-icon",
-              "title": "2月12號"
+              "title": "2月6號"
+            }
+          },
+          {
+            "id": "1ce5220c1a390bff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2025年/2月/2月13號.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2月13號"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,15 +200,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d37fa056296f557",
+  "active": "1ce5220c1a390bff",
   "lastOpenFiles": [
-    "Excalidraw/2025年/中醫workshop工具.md",
-    "Excalidraw/2025年/2月/2月10號.md",
-    "Excalidraw/2025年/2月/2月11號.md",
-    "Excalidraw/2025年/識別式AI未能解決.md",
     "Excalidraw/2025年/2月/2月12號.md",
+    "Excalidraw/2025年/2月/2月13號.md",
     "Excalidraw/2025年/2月/2月6號.md",
+    "Excalidraw/2025年/2月/2月5號.md",
+    "Excalidraw/2025年/2月/2月4號.md",
+    "Excalidraw/2025年/2月/2月3號.md",
+    "Excalidraw/2025年/2月/2月11號.md",
+    "Excalidraw/2025年/2月/2月10號.md",
     "Excalidraw/2025年/2月/2月7號.md",
+    "Excalidraw/2025年/中醫workshop工具.md",
+    "Excalidraw/2025年/識別式AI未能解決.md",
     "IMG/WhatsApp Image 2025-02-07 at 15.41.45_bc4230ed.jpg",
     "IMG/Pasted Image 20250207181411_408.png",
     "IMG/Pasted Image 20250207152422_722.png",
@@ -209,9 +225,6 @@
     "Excalidraw/Drawing 2025-02-10 17.58.54.excalidraw.md",
     "IDEA 2024 DEC/IDEA 30th.md",
     "IMG/WhatsApp Image 2025-02-06 at 15.40.59_77655c49.jpg",
-    "Excalidraw/2025年/2月/2月3號.md",
-    "Excalidraw/2025年/2月/2月5號.md",
-    "Excalidraw/2025年/2月/2月4號.md",
     "Excalidraw/2025年/1月/1月29號.md",
     "Excalidraw/2025年/1月/1月28號.md",
     "Excalidraw/2025年/1月/1月3號.md",
@@ -228,7 +241,6 @@
     "Excalidraw/2025年/1月/1月21號.md",
     "Excalidraw/2025年/1月/1月20號.md",
     "Excalidraw/2025年/1月/1月18號.md",
-    "Excalidraw/2025年/1月/1月17號.md",
     "未命名.canvas",
     "Excalidraw/舌面诊断2.0api.pdf",
     "IMG",
