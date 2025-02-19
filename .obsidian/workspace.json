@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c2b4df2f01cd684c",
+        "id": "9ec50f5f5a5db25d",
         "type": "tabs",
         "children": [
           {
-            "id": "32ea8ba8202a5e53",
+            "id": "2ee4530c6130e89b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/2025年/2月/2月6號.md"
+                "file": "Excalidraw/2025年/2月/2月18號.md"
               },
               "icon": "excalidraw-icon",
-              "title": "2月6號"
+              "title": "2月18號"
             }
           },
           {
-            "id": "2579489b988f0841",
+            "id": "db113fe92841b7e7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/2025年/2月/2月11號.md"
+                "file": "Excalidraw/2025年/2月/2月19號.md"
               },
               "icon": "excalidraw-icon",
-              "title": "2月11號"
-            }
-          },
-          {
-            "id": "1671b5eed94c72d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2025年/2月/2月6號.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2月6號"
-            }
-          },
-          {
-            "id": "1ce5220c1a390bff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2025年/2月/2月13號.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2月13號"
+              "title": "2月19號"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "right": {
     "id": "9669f2bae455e5bd",
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/中醫workshop.md",
+                "file": "Excalidraw/2025年/2月/2月19號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "中醫workshop 的反向連結"
+              "title": "2月19號 的反向連結"
             }
           },
           {
@@ -200,19 +176,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ce5220c1a390bff",
+  "active": "7d37fa056296f557",
   "lastOpenFiles": [
+    "Excalidraw/2025年/中醫workshop工具.md",
+    "Excalidraw/2025年/2月/2月18號.md",
+    "Excalidraw/2025年/2月/2月19號.md",
+    "Excalidraw/2025年/2月/2月17號.md",
     "Excalidraw/2025年/2月/2月12號.md",
-    "Excalidraw/2025年/2月/2月13號.md",
+    "Excalidraw/2025年/2月/2月3號.md",
     "Excalidraw/2025年/2月/2月6號.md",
+    "Excalidraw/2025年/2月/2月13號.md",
+    "Excalidraw/2025年/2月/2月14號.md",
+    "Excalidraw/2025年/2y.md",
+    "1月我會什麽？小總結：.md",
+    "IMG/Pasted Image 20250102104946_911.png",
+    "Excalidraw/識別式AI未能解決.md",
+    "Excalidraw/Drawing 2025-02-17 09.49.56.excalidraw.md",
+    "Excalidraw/2025年/2月/2月17號 1.md",
+    "Excalidraw/2025年/2月/2月11號.md",
     "Excalidraw/2025年/2月/2月5號.md",
     "Excalidraw/2025年/2月/2月4號.md",
-    "Excalidraw/2025年/2月/2月3號.md",
-    "Excalidraw/2025年/2月/2月11號.md",
     "Excalidraw/2025年/2月/2月10號.md",
     "Excalidraw/2025年/2月/2月7號.md",
-    "Excalidraw/2025年/中醫workshop工具.md",
-    "Excalidraw/2025年/識別式AI未能解決.md",
     "IMG/WhatsApp Image 2025-02-07 at 15.41.45_bc4230ed.jpg",
     "IMG/Pasted Image 20250207181411_408.png",
     "IMG/Pasted Image 20250207152422_722.png",
@@ -231,16 +216,7 @@
     "Excalidraw/2025年/2月",
     "Excalidraw/2025年/1月",
     "Excalidraw/2025年/1月/1月24號.md",
-    "IDEA 2024 DEC/IDEA 23th.md",
-    "Image/Front.png",
     "Image",
-    "Excalidraw/Drawing 2025-01-28 09.39.30.excalidraw.md",
-    "Excalidraw/2025年/1月/1月23號.md",
-    "1月我會什麽？小總結：.md",
-    "Excalidraw/2025年/1月/1月22號.md",
-    "Excalidraw/2025年/1月/1月21號.md",
-    "Excalidraw/2025年/1月/1月20號.md",
-    "Excalidraw/2025年/1月/1月18號.md",
     "未命名.canvas",
     "Excalidraw/舌面诊断2.0api.pdf",
     "IMG",
